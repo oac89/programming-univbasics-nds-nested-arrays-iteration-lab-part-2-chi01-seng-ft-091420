@@ -1,5 +1,5 @@
 
-def find_min_in_nested_arrays (src)
+def find_min_in_nested_arrays (array_of_daily_temperatures)
      
       lowest_array = [ ]
       row_index = 0 
